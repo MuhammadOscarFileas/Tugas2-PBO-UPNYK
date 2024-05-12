@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/mvccrud/MVCCRUD.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/koneksi/connector.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/DAOImplement/datafilmimplement.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/controller/datafilmcontroller.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/mvccrud/MainView.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/model/datafilm.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/DAOdatafilm/datafilmDAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/MVCCRUD/src/model/modeltabeldatafilm.java</file>
+        </group>
+    </open-files>
+</project-private>
